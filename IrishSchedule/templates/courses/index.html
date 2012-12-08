@@ -1,0 +1,10 @@
+{% load url from future %}
+{% if department_list %}
+    <ul>
+    {% for d in department_list %}
+        <li><a href="/IrishSchedule/{{d.deptkey}}/">{{ d.deptname}}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No Departments are available.</p>
+{% endif %}

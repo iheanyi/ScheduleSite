@@ -1,0 +1,10 @@
+{% if course_list %}
+	<p>{{ d.deptname }}</p>
+    <ul>
+    {% for c in course_list%}
+        <li><a href="/IrishSchedule/{{ c.course_no }}/">{{ c.title}}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No Courses are available.</p>
+{% endif %}

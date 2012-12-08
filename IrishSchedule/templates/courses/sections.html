@@ -1,0 +1,9 @@
+{% if section_list %}
+    <ul>
+    {% for s in section_list%}
+        <li>{{ s }}</li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No Sectionsare available.</p>
+{% endif %}
