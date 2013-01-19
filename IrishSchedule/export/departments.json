@@ -1,0 +1,1094 @@
+[
+    {
+        "pk": "ACCT",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Accountancy"
+        }
+    },
+    {
+        "pk": "AME",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Aerospace and Mechanical Engr."
+        }
+    },
+    {
+        "pk": "AFAM",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "African & African-American Stu"
+        }
+    },
+    {
+        "pk": "AFST",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Africana Studies"
+        }
+    },
+    {
+        "pk": "AS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Air Force-Aerospace Studies"
+        }
+    },
+    {
+        "pk": "AMST",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "American Studies"
+        }
+    },
+    {
+        "pk": "ANTH",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Anthropology"
+        }
+    },
+    {
+        "pk": "ACMS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Applied & Comp Math and Stats"
+        }
+    },
+    {
+        "pk": "MEAR",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Arabic Language and Literature"
+        }
+    },
+    {
+        "pk": "ARCH",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Architecture"
+        }
+    },
+    {
+        "pk": "ARHI",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Art History"
+        }
+    },
+    {
+        "pk": "ARST",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Art Studio"
+        }
+    },
+    {
+        "pk": "ART",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Art,Art History,& Design (SMC)"
+        }
+    },
+    {
+        "pk": "AL",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Arts and Letters (Non-dept.)"
+        }
+    },
+    {
+        "pk": "CORE",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Arts and Letters - Core"
+        }
+    },
+    {
+        "pk": "ALHN",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Arts and Letters - Honors"
+        }
+    },
+    {
+        "pk": "ALPP",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Arts and Letters Preprofessnal"
+        }
+    },
+    {
+        "pk": "ASIA",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Asian Studies"
+        }
+    },
+    {
+        "pk": "BIOS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Biological Sciences"
+        }
+    },
+    {
+        "pk": "BIO",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Biology (SMC)"
+        }
+    },
+    {
+        "pk": "BAAC",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Bus Admin - Accounting/Bus Law"
+        }
+    },
+    {
+        "pk": "BALW",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Bus Admin - Business Law"
+        }
+    },
+    {
+        "pk": "BACM",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Bus Admin - Communication"
+        }
+    },
+    {
+        "pk": "BAET",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Bus Admin - Ethics"
+        }
+    },
+    {
+        "pk": "BAFI",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Bus Admin - Finance"
+        }
+    },
+    {
+        "pk": "BAMG",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Bus Admin - Management"
+        }
+    },
+    {
+        "pk": "BA",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Business Administration"
+        }
+    },
+    {
+        "pk": "BUAD",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Business Administration (SMC)"
+        }
+    },
+    {
+        "pk": "BAUG",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Business Administration - UG"
+        }
+    },
+    {
+        "pk": "CST",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Catholic Social Tradition"
+        }
+    },
+    {
+        "pk": "CSC",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Center for Social Concerns"
+        }
+    },
+    {
+        "pk": "CBE",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Chemical & Biomoecular Engr."
+        }
+    },
+    {
+        "pk": "CHEM",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Chemistry and Biochemistry"
+        }
+    },
+    {
+        "pk": "EALC",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Chinese"
+        }
+    },
+    {
+        "pk": "CE",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Civil Engineering"
+        }
+    },
+    {
+        "pk": "CLAS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Classics in Translation"
+        }
+    },
+    {
+        "pk": "CSEM",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "College Seminar"
+        }
+    },
+    {
+        "pk": "CA",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Communication Arts"
+        }
+    },
+    {
+        "pk": "COMM",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Communications (SMC)"
+        }
+    },
+    {
+        "pk": "CAPP",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Computer Applications"
+        }
+    },
+    {
+        "pk": "CPSC",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Computer Science (SMC)"
+        }
+    },
+    {
+        "pk": "CSE",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Computer Science and Engr."
+        }
+    },
+    {
+        "pk": "CNST",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Constitutional Studies"
+        }
+    },
+    {
+        "pk": "DANC",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Dance (SMC)"
+        }
+    },
+    {
+        "pk": "DESN",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Design"
+        }
+    },
+    {
+        "pk": "ESTM",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "EG, SC & Tech Entrepreneurship"
+        }
+    },
+    {
+        "pk": "LLEA",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "East Asian Lang & Lit"
+        }
+    },
+    {
+        "pk": "ECON",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Economics"
+        }
+    },
+    {
+        "pk": "ECOE",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Economics and Econometrics"
+        }
+    },
+    {
+        "pk": "EDU",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Education"
+        }
+    },
+    {
+        "pk": "EDUC",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Education (SMC)"
+        }
+    },
+    {
+        "pk": "ESS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Education, School and Society"
+        }
+    },
+    {
+        "pk": "EE",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Electrical Engineering"
+        }
+    },
+    {
+        "pk": "ENER",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Energy Studies"
+        }
+    },
+    {
+        "pk": "ESTS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Eng., Science, Tech. & Society"
+        }
+    },
+    {
+        "pk": "EG",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Engineering (Non-Departmental)"
+        }
+    },
+    {
+        "pk": "EGSC",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Engineering Science Program"
+        }
+    },
+    {
+        "pk": "ENGL",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "English"
+        }
+    },
+    {
+        "pk": "ELS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "English Language School (SMC)"
+        }
+    },
+    {
+        "pk": "ENLT",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "English Literature (SMC)"
+        }
+    },
+    {
+        "pk": "ENWR",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "English Writing (SMC)"
+        }
+    },
+    {
+        "pk": "ENVG",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Environmental Geosciences"
+        }
+    },
+    {
+        "pk": "ENVS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Environmental Studies (SMC)"
+        }
+    },
+    {
+        "pk": "FTT",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Film, Television, and Theatre"
+        }
+    },
+    {
+        "pk": "FIN",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Finance"
+        }
+    },
+    {
+        "pk": "FYC",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "First Year Composition"
+        }
+    },
+    {
+        "pk": "FYS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "First Year of Studies"
+        }
+    },
+    {
+        "pk": "ROFR",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "French"
+        }
+    },
+    {
+        "pk": "GWS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Gender & Women's Studies (SMC)"
+        }
+    },
+    {
+        "pk": "GSC",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Gender Studies"
+        }
+    },
+    {
+        "pk": "GE",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "German"
+        }
+    },
+    {
+        "pk": "GERO",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Gerontology (SMC)"
+        }
+    },
+    {
+        "pk": "GH",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Global Health - Eck Institute"
+        }
+    },
+    {
+        "pk": "GLST",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Global Studies (SMC)"
+        }
+    },
+    {
+        "pk": "GRED",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Graduate Education"
+        }
+    },
+    {
+        "pk": "CLGR",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Greek Language and Literature"
+        }
+    },
+    {
+        "pk": "MEHE",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Hebrew Language and Literature"
+        }
+    },
+    {
+        "pk": "HESB",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Hesburgh Prg in Public Service"
+        }
+    },
+    {
+        "pk": "HIST",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "History"
+        }
+    },
+    {
+        "pk": "HPS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "History and Phil. of Science"
+        }
+    },
+    {
+        "pk": "HUST",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Humanistic Studies (SMC)"
+        }
+    },
+    {
+        "pk": "HUM",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Humanities Seminar"
+        }
+    },
+    {
+        "pk": "IUSM",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Indiana U. Sch of Med. S. Bend"
+        }
+    },
+    {
+        "pk": "IIPS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Inst. for Int'l Peace Studies"
+        }
+    },
+    {
+        "pk": "IBMS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Integrated Biomedical Sciences"
+        }
+    },
+    {
+        "pk": "ICS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Intercultural Studies (SMC)"
+        }
+    },
+    {
+        "pk": "IDS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Internatnl Development Studies"
+        }
+    },
+    {
+        "pk": "IRLL",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Irish Language and Literature"
+        }
+    },
+    {
+        "pk": "IRST",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Irish Studies"
+        }
+    },
+    {
+        "pk": "ROIT",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Italian"
+        }
+    },
+    {
+        "pk": "EALJ",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Japanese"
+        }
+    },
+    {
+        "pk": "JED",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Journalism, Ethics & Democracy"
+        }
+    },
+    {
+        "pk": "JUST",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Justice Studies (SMC)"
+        }
+    },
+    {
+        "pk": "EALK",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Korean"
+        }
+    },
+    {
+        "pk": "LAST",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Latin American Studies"
+        }
+    },
+    {
+        "pk": "CLLA",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Latin Language and Literature"
+        }
+    },
+    {
+        "pk": "ILS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Latino Studies"
+        }
+    },
+    {
+        "pk": "LAW",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Law"
+        }
+    },
+    {
+        "pk": "LIT",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Literature"
+        }
+    },
+    {
+        "pk": "MBCM",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "MBA Bus Communications"
+        }
+    },
+    {
+        "pk": "MBET",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "MBA Business Ethics"
+        }
+    },
+    {
+        "pk": "MBLW",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "MBA Business Law"
+        }
+    },
+    {
+        "pk": "MBAC",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "MBA Chicago"
+        }
+    },
+    {
+        "pk": "MBAE",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "MBA Executive Program"
+        }
+    },
+    {
+        "pk": "MBGR",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "MBA General"
+        }
+    },
+    {
+        "pk": "MBAL",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "MBA Local"
+        }
+    },
+    {
+        "pk": "MGT",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Management"
+        }
+    },
+    {
+        "pk": "MGTC",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Management - Consulting"
+        }
+    },
+    {
+        "pk": "MGTE",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Management - Entrepreneurship"
+        }
+    },
+    {
+        "pk": "MGTI",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Management - IT"
+        }
+    },
+    {
+        "pk": "MARK",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Marketing"
+        }
+    },
+    {
+        "pk": "MBA",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Master of Business Admin."
+        }
+    },
+    {
+        "pk": "MNA",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Master of Nonprofit Admin."
+        }
+    },
+    {
+        "pk": "MSA",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Master of Science in Admin."
+        }
+    },
+    {
+        "pk": "MATH",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Mathematics"
+        }
+    },
+    {
+        "pk": "MI",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Medieval Institute"
+        }
+    },
+    {
+        "pk": "MELC",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Mid East Lit in Transl & Hist"
+        }
+    },
+    {
+        "pk": "MSL",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Military Science (Army ROTC)"
+        }
+    },
+    {
+        "pk": "MODL",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Modern and Classical Languages"
+        }
+    },
+    {
+        "pk": "MUS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Music"
+        }
+    },
+    {
+        "pk": "NSCI",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Naval Science (ROTC)"
+        }
+    },
+    {
+        "pk": "CLST",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Near East Lit./Culture in Engl"
+        }
+    },
+    {
+        "pk": "NURS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Nursing (SMC)"
+        }
+    },
+    {
+        "pk": "PATL",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Patent Law"
+        }
+    },
+    {
+        "pk": "PHIL",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Philosophy"
+        }
+    },
+    {
+        "pk": "PE",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Physical Education"
+        }
+    },
+    {
+        "pk": "PHYS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Physics"
+        }
+    },
+    {
+        "pk": "POLS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Political Science"
+        }
+    },
+    {
+        "pk": "POSC",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Political Science (SMC)"
+        }
+    },
+    {
+        "pk": "ROPO",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Portuguese"
+        }
+    },
+    {
+        "pk": "PS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Poverty Studies"
+        }
+    },
+    {
+        "pk": "PCSE",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Pre-College Summer Experience"
+        }
+    },
+    {
+        "pk": "PLS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Program of Liberal Studies"
+        }
+    },
+    {
+        "pk": "PSY",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Psychology"
+        }
+    },
+    {
+        "pk": "PSYC",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Psychology (SMC)"
+        }
+    },
+    {
+        "pk": "REG",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Registrar's Office"
+        }
+    },
+    {
+        "pk": "RLT",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Religion and Literature"
+        }
+    },
+    {
+        "pk": "RLST",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Religious Studies (SMC)"
+        }
+    },
+    {
+        "pk": "LLRO",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Romance Lang & Lit"
+        }
+    },
+    {
+        "pk": "RU",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Russian"
+        }
+    },
+    {
+        "pk": "SC",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Science (Non-departmental)"
+        }
+    },
+    {
+        "pk": "SCPP",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Science Preprofessional"
+        }
+    },
+    {
+        "pk": "STV",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Science, Technology and Values"
+        }
+    },
+    {
+        "pk": "SDM",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Self Designed Major (SMC)"
+        }
+    },
+    {
+        "pk": "SBCM",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "So. Bend Cen for Medical Educ."
+        }
+    },
+    {
+        "pk": "SW",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Social Work (SMC)"
+        }
+    },
+    {
+        "pk": "SOC",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Sociology"
+        }
+    },
+    {
+        "pk": "ROSP",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Spanish"
+        }
+    },
+    {
+        "pk": "SMC",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "St. Mary's"
+        }
+    },
+    {
+        "pk": "SUS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Sustainability"
+        }
+    },
+    {
+        "pk": "CLSS",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Syriac Language and Literature"
+        }
+    },
+    {
+        "pk": "THTR",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Theatre (SMC)"
+        }
+    },
+    {
+        "pk": "THEO",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Theology"
+        }
+    },
+    {
+        "pk": "UB",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Upward Bound Program"
+        }
+    },
+    {
+        "pk": "WOST",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Women's Studies (SMC)"
+        }
+    },
+    {
+        "pk": "WR",
+        "model": "IrishSchedule.department",
+        "fields": {
+            "deptname": "Writing and Rhetoric"
+        }
+    }
+]
